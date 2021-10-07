@@ -1,12 +1,14 @@
 # SoundSources
+# Operation
+For adding new sources, please add a line of note.txt undering the folder to show the license and where you download it.
 # Format
 44100 HZ sample rate;
-single channel;
-the length under 1 minute
+Single channel;
+The length under 1 minute
 # SingleSoundSources Folder
 One single sound event or multiple no overlapping sound events; 
-no overlapping sound event; 
-having the beginning and end of the sound event;
+No overlapping sound event; 
+Having the beginning and end of the sound event;
 # SoundTexture_anim Folder
 One sound texture;
 Without having the begininng and end of the sound event;
