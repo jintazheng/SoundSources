@@ -3,6 +3,7 @@
 For adding new sources:
 Please add a line of note.xlsx undering the folder to show the license and where you download it;
 Please add a meaningful name;
+If you can write down the reason why do you pick it that would be great (note.xlsx);
 # Format
 44100 HZ sample rate;
 Single channel;
