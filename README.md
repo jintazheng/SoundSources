@@ -1,6 +1,8 @@
 # SoundSources
 # Operation
-For adding new sources, please add a line of note.txt undering the folder to show the license and where you download it.
+For adding new sources:
+Please add a line of note.xlsx undering the folder to show the license and where you download it;
+Please add a meaningful name;
 # Format
 44100 HZ sample rate;
 Single channel;
